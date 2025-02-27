@@ -1,0 +1,18 @@
+{
+  "name": "detectionx",
+  "version": "1.0.0",
+  "description": "\"# detectionX\"",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/coco-ssd": "^2.2.3",
+    "@tensorflow/tfjs": "^4.22.0",
+    "cors-anywhere": "^0.4.4"
+  }
+}
